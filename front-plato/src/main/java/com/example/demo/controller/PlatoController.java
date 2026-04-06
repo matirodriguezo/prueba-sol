@@ -32,7 +32,7 @@ public class PlatoController {
     // 2. CREATE
     @GetMapping("/formulario")
     public String mostrarFormularioCrear(Model model) {
-        model.addAttribute("platos", new PlatoEntity());
+        model.addAttribute("plato", new PlatoEntity());
         return "formulario";
     }
 
