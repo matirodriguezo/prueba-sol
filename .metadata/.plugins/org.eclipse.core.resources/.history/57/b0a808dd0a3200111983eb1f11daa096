@@ -8,13 +8,13 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/x
 
 <groupId>com.example</groupId>
 
-<artifactId>front-plato</artifactId>
+<artifactId>demo02</artifactId>
 
 <version>0.0.1-SNAPSHOT</version>
 
-<name>front-plato</name>
+<name>demo02</name>
 
-<description>front-plato spring boot</description>
+<description>demo02 spring boot</description>
 
 
 
@@ -24,7 +24,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/x
     <java.version>17</java.version>
     <maven.compiler.release>17</maven.compiler.release>
     <lombok.version>1.18.24</lombok.version>
-    <start-class>com.example.demo.FrontPlatoApplication</start-class>
+    <start-class>com.example.demo.Demo03Application</start-class>
 </properties>
 
 
@@ -110,7 +110,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/x
     <artifactId>spring-boot-maven-plugin</artifactId>
     <version>3.5.3</version>
     <configuration>
-        <mainClass>com.example.demo.FrontPlatoApplication</mainClass>
+        <mainClass>com.example.demo.Demo03Application</mainClass>
         <layout>JAR</layout>
     </configuration>
     <executions>
