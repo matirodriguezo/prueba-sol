@@ -30,7 +30,6 @@ INDEX VERSION 1.131+C:\Users\Mati\Desktop\prueba_solemne1\.metadata\.plugins\org
 1433248637.index
 603481400.index
 1156190824.index
-3165118290.index
 455489586.index
 3907862198.index
 1574534571.index
