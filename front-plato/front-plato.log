@@ -1,0 +1,13 @@
+2026-04-06 18:17:04.794  INFO 8244 --- [main] com.example.demo.FrontPlatoApplication   : Starting FrontPlatoApplication using Java 17.0.4.1 on DESKTOP-HEC0Q8E with PID 8244 (C:\Users\Mati\Desktop\prueba_solemne1\front-plato\target\classes started by Mati in C:\Users\Mati\Desktop\prueba_solemne1\front-plato)
+2026-04-06 18:17:04.796  INFO 8244 --- [main] com.example.demo.FrontPlatoApplication   : No active profile set, falling back to default profiles: default
+2026-04-06 18:17:05.727  INFO 8244 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9994 (http)
+2026-04-06 18:17:05.743  INFO 8244 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-04-06 18:17:05.746  INFO 8244 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2026-04-06 18:17:05.825  INFO 8244 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2026-04-06 18:17:05.825  INFO 8244 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 962 ms
+2026-04-06 18:17:06.126  WARN 8244 --- [main] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2026-04-06 18:17:06.249  INFO 8244 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9994 (http) with context path ''
+2026-04-06 18:17:06.260  INFO 8244 --- [main] com.example.demo.FrontPlatoApplication   : Started FrontPlatoApplication in 1.921 seconds (JVM running for 2.85)
+2026-04-06 18:17:11.304  INFO 8244 --- [http-nio-9994-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-04-06 18:17:11.305  INFO 8244 --- [http-nio-9994-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-04-06 18:17:11.309  INFO 8244 --- [http-nio-9994-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms

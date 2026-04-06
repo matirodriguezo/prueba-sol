@@ -1,0 +1,574 @@
+2026-04-06 16:42:12,060 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2026-04-06 16:44:43,157 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-parent/4.0.5/spring-boot-starter-parent-4.0.5.pom
+2026-04-06 16:44:43,330 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/4.0.5/spring-boot-dependencies-4.0.5.pom
+2026-04-06 16:44:43,575 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/reporter2/zipkin-reporter-bom/3.5.3/zipkin-reporter-bom-3.5.3.pom
+2026-04-06 16:44:43,698 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/zipkin/brave/brave-bom/6.3.1/brave-bom-6.3.1.pom
+2026-04-06 16:44:43,923 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.21.2/jackson-bom-2.21.2.pom
+2026-04-06 16:44:44,230 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jooq/jooq-bom/3.19.31/jooq-bom-3.19.31.pom
+2026-04-06 16:44:44,569 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-bom/4.2.12.Final/netty-bom-4.2.12.Final.pom
+2026-04-06 16:44:45,846 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/4.0.5/spring-boot-maven-plugin-4.0.5.pom
+2026-04-06 16:44:45,881 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/4.0.5/spring-boot-maven-plugin-4.0.5.jar
+2026-04-06 16:44:46,002 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/4.0.5/spring-boot-maven-plugin-4.0.5.jar
+2026-04-06 16:44:48,444 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:back-plato:0.0.1-SNAPSHOT @ C:\Users\Mati\Desktop\prueba_solemne1\back-plato\pom.xml.
+2026-04-06 16:44:48,582 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/4.0.5/spring-boot-starter-data-jpa-4.0.5.pom
+2026-04-06 16:44:48,708 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/4.0.5/spring-boot-starter-4.0.5.pom
+2026-04-06 16:44:48,836 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/4.0.5/spring-boot-starter-logging-4.0.5.pom
+2026-04-06 16:44:49,378 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/4.0.5/spring-boot-autoconfigure-4.0.5.pom
+2026-04-06 16:44:49,508 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/4.0.5/spring-boot-4.0.5.pom
+2026-04-06 16:44:49,952 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/4.0.5/spring-boot-starter-jdbc-4.0.5.pom
+2026-04-06 16:44:50,081 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-jdbc/4.0.5/spring-boot-jdbc-4.0.5.pom
+2026-04-06 16:44:50,211 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-sql/4.0.5/spring-boot-sql-4.0.5.pom
+2026-04-06 16:44:50,339 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-transaction/4.0.5/spring-boot-transaction-4.0.5.pom
+2026-04-06 16:44:50,466 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-persistence/4.0.5/spring-boot-persistence-4.0.5.pom
+2026-04-06 16:44:50,661 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-data-jpa/4.0.5/spring-boot-data-jpa-4.0.5.pom
+2026-04-06 16:44:50,787 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-data-commons/4.0.5/spring-boot-data-commons-4.0.5.pom
+2026-04-06 16:44:51,094 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-hibernate/4.0.5/spring-boot-hibernate-4.0.5.pom
+2026-04-06 16:44:51,221 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-jpa/4.0.5/spring-boot-jpa-4.0.5.pom
+2026-04-06 16:44:52,115 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webmvc/4.0.5/spring-boot-starter-webmvc-4.0.5.pom
+2026-04-06 16:44:52,246 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jackson/4.0.5/spring-boot-starter-jackson-4.0.5.pom
+2026-04-06 16:44:52,379 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-jackson/4.0.5/spring-boot-jackson-4.0.5.pom
+2026-04-06 16:44:52,622 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/4.0.5/spring-boot-starter-tomcat-4.0.5.pom
+2026-04-06 16:44:52,750 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat-runtime/4.0.5/spring-boot-starter-tomcat-runtime-4.0.5.pom
+2026-04-06 16:44:52,883 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-tomcat/4.0.5/spring-boot-tomcat-4.0.5.pom
+2026-04-06 16:44:53,014 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-web-server/4.0.5/spring-boot-web-server-4.0.5.pom
+2026-04-06 16:44:53,141 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/11.0.20/tomcat-embed-core-11.0.20.pom
+2026-04-06 16:44:53,268 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/11.0.20/tomcat-embed-el-11.0.20.pom
+2026-04-06 16:44:53,395 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/11.0.20/tomcat-embed-websocket-11.0.20.pom
+2026-04-06 16:44:53,545 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-http-converter/4.0.5/spring-boot-http-converter-4.0.5.pom
+2026-04-06 16:44:53,671 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-webmvc/4.0.5/spring-boot-webmvc-4.0.5.pom
+2026-04-06 16:44:53,808 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-servlet/4.0.5/spring-boot-servlet-4.0.5.pom
+2026-04-06 16:44:54,029 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa-test/4.0.5/spring-boot-starter-data-jpa-test-4.0.5.pom
+2026-04-06 16:44:54,155 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/4.0.5/spring-boot-starter-test-4.0.5.pom
+2026-04-06 16:44:54,280 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/4.0.5/spring-boot-test-4.0.5.pom
+2026-04-06 16:44:54,434 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/4.0.5/spring-boot-test-autoconfigure-4.0.5.pom
+2026-04-06 16:44:55,189 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc-test/4.0.5/spring-boot-starter-jdbc-test-4.0.5.pom
+2026-04-06 16:44:55,324 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-jdbc-test/4.0.5/spring-boot-jdbc-test-4.0.5.pom
+2026-04-06 16:44:55,456 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-data-jpa-test/4.0.5/spring-boot-data-jpa-test-4.0.5.pom
+2026-04-06 16:44:55,585 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-jpa-test/4.0.5/spring-boot-jpa-test-4.0.5.pom
+2026-04-06 16:44:55,710 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webmvc-test/4.0.5/spring-boot-starter-webmvc-test-4.0.5.pom
+2026-04-06 16:44:55,836 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jackson-test/4.0.5/spring-boot-starter-jackson-test-4.0.5.pom
+2026-04-06 16:44:55,970 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-webmvc-test/4.0.5/spring-boot-webmvc-test-4.0.5.pom
+2026-04-06 16:44:56,107 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-resttestclient/4.0.5/spring-boot-resttestclient-4.0.5.pom
+2026-04-06 16:44:56,225 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/4.0.5/spring-boot-starter-4.0.5.jar
+2026-04-06 16:44:56,248 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/4.0.5/spring-boot-starter-data-jpa-4.0.5.jar
+2026-04-06 16:44:56,260 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/4.0.5/spring-boot-autoconfigure-4.0.5.jar
+2026-04-06 16:44:56,261 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/4.0.5/spring-boot-starter-jdbc-4.0.5.jar
+2026-04-06 16:44:56,262 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/4.0.5/spring-boot-starter-logging-4.0.5.jar
+2026-04-06 16:44:56,387 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/4.0.5/spring-boot-starter-4.0.5.jar
+2026-04-06 16:44:56,408 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-data-jpa/4.0.5/spring-boot-data-jpa-4.0.5.jar
+2026-04-06 16:44:56,442 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/4.0.5/spring-boot-starter-jdbc-4.0.5.jar
+2026-04-06 16:44:56,444 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/4.0.5/spring-boot-starter-logging-4.0.5.jar
+2026-04-06 16:44:56,448 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/4.0.5/spring-boot-autoconfigure-4.0.5.jar
+2026-04-06 16:44:56,459 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-data-commons/4.0.5/spring-boot-data-commons-4.0.5.jar
+2026-04-06 16:44:56,479 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-hibernate/4.0.5/spring-boot-hibernate-4.0.5.jar
+2026-04-06 16:44:56,486 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-persistence/4.0.5/spring-boot-persistence-4.0.5.jar
+2026-04-06 16:44:56,567 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/4.0.5/spring-boot-starter-data-jpa-4.0.5.jar
+2026-04-06 16:44:56,592 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-jpa/4.0.5/spring-boot-jpa-4.0.5.jar
+2026-04-06 16:44:56,733 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-persistence/4.0.5/spring-boot-persistence-4.0.5.jar
+2026-04-06 16:44:56,757 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-jdbc/4.0.5/spring-boot-jdbc-4.0.5.jar
+2026-04-06 16:44:56,785 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-data-jpa/4.0.5/spring-boot-data-jpa-4.0.5.jar
+2026-04-06 16:44:56,786 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-hibernate/4.0.5/spring-boot-hibernate-4.0.5.jar
+2026-04-06 16:44:56,793 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-data-commons/4.0.5/spring-boot-data-commons-4.0.5.jar
+2026-04-06 16:44:56,802 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/4.0.5/spring-boot-4.0.5.jar
+2026-04-06 16:44:56,854 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-sql/4.0.5/spring-boot-sql-4.0.5.jar
+2026-04-06 16:44:56,854 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-transaction/4.0.5/spring-boot-transaction-4.0.5.jar
+2026-04-06 16:44:56,908 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-jpa/4.0.5/spring-boot-jpa-4.0.5.jar
+2026-04-06 16:44:56,926 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webmvc/4.0.5/spring-boot-starter-webmvc-4.0.5.jar
+2026-04-06 16:44:56,930 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-jdbc/4.0.5/spring-boot-jdbc-4.0.5.jar
+2026-04-06 16:44:56,949 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jackson/4.0.5/spring-boot-starter-jackson-4.0.5.jar
+2026-04-06 16:44:57,038 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/4.0.5/spring-boot-4.0.5.jar
+2026-04-06 16:44:57,057 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-jackson/4.0.5/spring-boot-jackson-4.0.5.jar
+2026-04-06 16:44:57,088 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webmvc/4.0.5/spring-boot-starter-webmvc-4.0.5.jar
+2026-04-06 16:44:57,095 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jackson/4.0.5/spring-boot-starter-jackson-4.0.5.jar
+2026-04-06 16:44:57,143 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-transaction/4.0.5/spring-boot-transaction-4.0.5.jar
+2026-04-06 16:44:57,157 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat-runtime/4.0.5/spring-boot-starter-tomcat-runtime-4.0.5.jar
+2026-04-06 16:44:57,157 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/4.0.5/spring-boot-starter-tomcat-4.0.5.jar
+2026-04-06 16:44:57,168 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-jackson/4.0.5/spring-boot-jackson-4.0.5.jar
+2026-04-06 16:44:57,178 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/11.0.20/tomcat-embed-core-11.0.20.jar
+2026-04-06 16:44:57,232 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/11.0.20/tomcat-embed-el-11.0.20.jar
+2026-04-06 16:44:57,343 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/4.0.5/spring-boot-starter-tomcat-4.0.5.jar
+2026-04-06 16:44:57,344 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat-runtime/4.0.5/spring-boot-starter-tomcat-runtime-4.0.5.jar
+2026-04-06 16:44:57,368 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/11.0.20/tomcat-embed-websocket-11.0.20.jar
+2026-04-06 16:44:57,368 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-tomcat/4.0.5/spring-boot-tomcat-4.0.5.jar
+2026-04-06 16:44:57,442 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/11.0.20/tomcat-embed-el-11.0.20.jar
+2026-04-06 16:44:57,474 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-http-converter/4.0.5/spring-boot-http-converter-4.0.5.jar
+2026-04-06 16:44:57,493 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-sql/4.0.5/spring-boot-sql-4.0.5.jar
+2026-04-06 16:44:57,525 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-webmvc/4.0.5/spring-boot-webmvc-4.0.5.jar
+2026-04-06 16:44:57,542 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-tomcat/4.0.5/spring-boot-tomcat-4.0.5.jar
+2026-04-06 16:44:57,559 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-servlet/4.0.5/spring-boot-servlet-4.0.5.jar
+2026-04-06 16:44:57,571 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/11.0.20/tomcat-embed-websocket-11.0.20.jar
+2026-04-06 16:44:57,592 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa-test/4.0.5/spring-boot-starter-data-jpa-test-4.0.5.jar
+2026-04-06 16:44:57,593 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-http-converter/4.0.5/spring-boot-http-converter-4.0.5.jar
+2026-04-06 16:44:57,660 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/4.0.5/spring-boot-starter-test-4.0.5.jar
+2026-04-06 16:44:57,667 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-webmvc/4.0.5/spring-boot-webmvc-4.0.5.jar
+2026-04-06 16:44:57,676 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/11.0.20/tomcat-embed-core-11.0.20.jar
+2026-04-06 16:44:57,686 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/4.0.5/spring-boot-test-4.0.5.jar
+2026-04-06 16:44:57,704 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/4.0.5/spring-boot-test-autoconfigure-4.0.5.jar
+2026-04-06 16:44:57,725 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa-test/4.0.5/spring-boot-starter-data-jpa-test-4.0.5.jar
+2026-04-06 16:44:57,785 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/4.0.5/spring-boot-starter-test-4.0.5.jar
+2026-04-06 16:44:57,787 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc-test/4.0.5/spring-boot-starter-jdbc-test-4.0.5.jar
+2026-04-06 16:44:57,799 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/4.0.5/spring-boot-test-4.0.5.jar
+2026-04-06 16:44:57,803 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-jdbc-test/4.0.5/spring-boot-jdbc-test-4.0.5.jar
+2026-04-06 16:44:57,820 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-data-jpa-test/4.0.5/spring-boot-data-jpa-test-4.0.5.jar
+2026-04-06 16:44:58,026 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc-test/4.0.5/spring-boot-starter-jdbc-test-4.0.5.jar
+2026-04-06 16:44:58,044 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-jpa-test/4.0.5/spring-boot-jpa-test-4.0.5.jar
+2026-04-06 16:44:58,080 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-servlet/4.0.5/spring-boot-servlet-4.0.5.jar
+2026-04-06 16:44:58,085 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/4.0.5/spring-boot-test-autoconfigure-4.0.5.jar
+2026-04-06 16:44:58,088 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-data-jpa-test/4.0.5/spring-boot-data-jpa-test-4.0.5.jar
+2026-04-06 16:44:58,092 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-jdbc-test/4.0.5/spring-boot-jdbc-test-4.0.5.jar
+2026-04-06 16:44:58,101 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webmvc-test/4.0.5/spring-boot-starter-webmvc-test-4.0.5.jar
+2026-04-06 16:44:58,120 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jackson-test/4.0.5/spring-boot-starter-jackson-test-4.0.5.jar
+2026-04-06 16:44:58,121 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-web-server/4.0.5/spring-boot-web-server-4.0.5.jar
+2026-04-06 16:44:58,123 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-webmvc-test/4.0.5/spring-boot-webmvc-test-4.0.5.jar
+2026-04-06 16:44:58,238 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webmvc-test/4.0.5/spring-boot-starter-webmvc-test-4.0.5.jar
+2026-04-06 16:44:58,255 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-resttestclient/4.0.5/spring-boot-resttestclient-4.0.5.jar
+2026-04-06 16:44:58,289 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jackson-test/4.0.5/spring-boot-starter-jackson-test-4.0.5.jar
+2026-04-06 16:44:58,290 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-web-server/4.0.5/spring-boot-web-server-4.0.5.jar
+2026-04-06 16:44:58,295 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-jpa-test/4.0.5/spring-boot-jpa-test-4.0.5.jar
+2026-04-06 16:44:58,505 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-webmvc-test/4.0.5/spring-boot-webmvc-test-4.0.5.jar
+2026-04-06 16:44:58,556 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-resttestclient/4.0.5/spring-boot-resttestclient-4.0.5.jar
+2026-04-06 16:45:01,295 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /back-plato/src/main/java
+2026-04-06 16:45:01,296 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /back-plato/src/main/resources
+2026-04-06 16:45:01,325 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /back-plato/src/main/resources
+2026-04-06 16:45:01,339 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /back-plato/src/test/java
+2026-04-06 16:45:01,689 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/4.0.5/spring-boot-starter-data-jpa-4.0.5-sources.jar
+2026-04-06 16:45:01,766 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/4.0.5/spring-boot-starter-data-jpa-4.0.5-sources.jar
+2026-04-06 16:45:01,769 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-data-jpa:4.0.5
+2026-04-06 16:45:01,845 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/4.0.5/spring-boot-starter-4.0.5-sources.jar
+2026-04-06 16:45:01,939 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/4.0.5/spring-boot-starter-4.0.5-sources.jar
+2026-04-06 16:45:01,942 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter:4.0.5
+2026-04-06 16:45:02,005 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/4.0.5/spring-boot-starter-logging-4.0.5-sources.jar
+2026-04-06 16:45:02,082 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/4.0.5/spring-boot-starter-logging-4.0.5-sources.jar
+2026-04-06 16:45:02,085 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-logging:4.0.5
+2026-04-06 16:45:02,179 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/4.0.5/spring-boot-autoconfigure-4.0.5-sources.jar
+2026-04-06 16:45:02,293 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/4.0.5/spring-boot-autoconfigure-4.0.5-sources.jar
+2026-04-06 16:45:02,296 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-autoconfigure:4.0.5
+2026-04-06 16:45:02,363 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/4.0.5/spring-boot-starter-jdbc-4.0.5-sources.jar
+2026-04-06 16:45:02,503 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/4.0.5/spring-boot-starter-jdbc-4.0.5-sources.jar
+2026-04-06 16:45:02,506 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-jdbc:4.0.5
+2026-04-06 16:45:02,566 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-data-jpa/4.0.5/spring-boot-data-jpa-4.0.5-sources.jar
+2026-04-06 16:45:02,730 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-data-jpa/4.0.5/spring-boot-data-jpa-4.0.5-sources.jar
+2026-04-06 16:45:02,733 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-data-jpa:4.0.5
+2026-04-06 16:45:02,802 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-data-commons/4.0.5/spring-boot-data-commons-4.0.5-sources.jar
+2026-04-06 16:45:03,093 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-data-commons/4.0.5/spring-boot-data-commons-4.0.5-sources.jar
+2026-04-06 16:45:03,096 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-data-commons:4.0.5
+2026-04-06 16:45:03,159 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-persistence/4.0.5/spring-boot-persistence-4.0.5-sources.jar
+2026-04-06 16:45:03,344 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-persistence/4.0.5/spring-boot-persistence-4.0.5-sources.jar
+2026-04-06 16:45:03,347 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-persistence:4.0.5
+2026-04-06 16:45:03,407 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-hibernate/4.0.5/spring-boot-hibernate-4.0.5-sources.jar
+2026-04-06 16:45:03,656 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-hibernate/4.0.5/spring-boot-hibernate-4.0.5-sources.jar
+2026-04-06 16:45:03,659 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-hibernate:4.0.5
+2026-04-06 16:45:03,733 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-jpa/4.0.5/spring-boot-jpa-4.0.5-sources.jar
+2026-04-06 16:45:03,969 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-jpa/4.0.5/spring-boot-jpa-4.0.5-sources.jar
+2026-04-06 16:45:03,972 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-jpa:4.0.5
+2026-04-06 16:45:04,036 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-jdbc/4.0.5/spring-boot-jdbc-4.0.5-sources.jar
+2026-04-06 16:45:04,145 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-jdbc/4.0.5/spring-boot-jdbc-4.0.5-sources.jar
+2026-04-06 16:45:04,147 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-jdbc:4.0.5
+2026-04-06 16:45:04,210 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/4.0.5/spring-boot-4.0.5-sources.jar
+2026-04-06 16:45:04,413 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/4.0.5/spring-boot-4.0.5-sources.jar
+2026-04-06 16:45:04,416 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot:4.0.5
+2026-04-06 16:45:04,478 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-sql/4.0.5/spring-boot-sql-4.0.5-sources.jar
+2026-04-06 16:45:04,982 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-sql/4.0.5/spring-boot-sql-4.0.5-sources.jar
+2026-04-06 16:45:04,985 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-sql:4.0.5
+2026-04-06 16:45:05,054 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-transaction/4.0.5/spring-boot-transaction-4.0.5-sources.jar
+2026-04-06 16:45:05,323 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-transaction/4.0.5/spring-boot-transaction-4.0.5-sources.jar
+2026-04-06 16:45:05,326 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-transaction:4.0.5
+2026-04-06 16:45:05,390 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webmvc/4.0.5/spring-boot-starter-webmvc-4.0.5-sources.jar
+2026-04-06 16:45:05,508 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webmvc/4.0.5/spring-boot-starter-webmvc-4.0.5-sources.jar
+2026-04-06 16:45:05,511 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-webmvc:4.0.5
+2026-04-06 16:45:05,571 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jackson/4.0.5/spring-boot-starter-jackson-4.0.5-sources.jar
+2026-04-06 16:45:05,650 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jackson/4.0.5/spring-boot-starter-jackson-4.0.5-sources.jar
+2026-04-06 16:45:05,653 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-jackson:4.0.5
+2026-04-06 16:45:05,717 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-jackson/4.0.5/spring-boot-jackson-4.0.5-sources.jar
+2026-04-06 16:45:06,072 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-jackson/4.0.5/spring-boot-jackson-4.0.5-sources.jar
+2026-04-06 16:45:06,075 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-jackson:4.0.5
+2026-04-06 16:45:06,134 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/4.0.5/spring-boot-starter-tomcat-4.0.5-sources.jar
+2026-04-06 16:45:06,211 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/4.0.5/spring-boot-starter-tomcat-4.0.5-sources.jar
+2026-04-06 16:45:06,214 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-tomcat:4.0.5
+2026-04-06 16:45:06,277 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat-runtime/4.0.5/spring-boot-starter-tomcat-runtime-4.0.5-sources.jar
+2026-04-06 16:45:06,407 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat-runtime/4.0.5/spring-boot-starter-tomcat-runtime-4.0.5-sources.jar
+2026-04-06 16:45:06,410 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-tomcat-runtime:4.0.5
+2026-04-06 16:45:06,478 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/11.0.20/tomcat-embed-core-11.0.20-sources.jar
+2026-04-06 16:45:06,937 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/11.0.20/tomcat-embed-core-11.0.20-sources.jar
+2026-04-06 16:45:06,939 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat.embed:tomcat-embed-core:11.0.20
+2026-04-06 16:45:07,001 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/11.0.20/tomcat-embed-el-11.0.20-sources.jar
+2026-04-06 16:45:07,132 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/11.0.20/tomcat-embed-el-11.0.20-sources.jar
+2026-04-06 16:45:07,134 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat.embed:tomcat-embed-el:11.0.20
+2026-04-06 16:45:07,195 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/11.0.20/tomcat-embed-websocket-11.0.20-sources.jar
+2026-04-06 16:45:07,318 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/11.0.20/tomcat-embed-websocket-11.0.20-sources.jar
+2026-04-06 16:45:07,321 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat.embed:tomcat-embed-websocket:11.0.20
+2026-04-06 16:45:07,387 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-tomcat/4.0.5/spring-boot-tomcat-4.0.5-sources.jar
+2026-04-06 16:45:07,500 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-tomcat/4.0.5/spring-boot-tomcat-4.0.5-sources.jar
+2026-04-06 16:45:07,503 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-tomcat:4.0.5
+2026-04-06 16:45:07,563 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-http-converter/4.0.5/spring-boot-http-converter-4.0.5-sources.jar
+2026-04-06 16:45:07,882 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-http-converter/4.0.5/spring-boot-http-converter-4.0.5-sources.jar
+2026-04-06 16:45:07,885 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-http-converter:4.0.5
+2026-04-06 16:45:07,946 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-webmvc/4.0.5/spring-boot-webmvc-4.0.5-sources.jar
+2026-04-06 16:45:08,060 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-webmvc/4.0.5/spring-boot-webmvc-4.0.5-sources.jar
+2026-04-06 16:45:08,062 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-webmvc:4.0.5
+2026-04-06 16:45:08,127 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-servlet/4.0.5/spring-boot-servlet-4.0.5-sources.jar
+2026-04-06 16:45:08,601 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-servlet/4.0.5/spring-boot-servlet-4.0.5-sources.jar
+2026-04-06 16:45:08,604 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-servlet:4.0.5
+2026-04-06 16:45:08,663 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa-test/4.0.5/spring-boot-starter-data-jpa-test-4.0.5-sources.jar
+2026-04-06 16:45:08,738 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa-test/4.0.5/spring-boot-starter-data-jpa-test-4.0.5-sources.jar
+2026-04-06 16:45:08,740 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-data-jpa-test:4.0.5
+2026-04-06 16:45:08,806 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/4.0.5/spring-boot-starter-test-4.0.5-sources.jar
+2026-04-06 16:45:08,901 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/4.0.5/spring-boot-starter-test-4.0.5-sources.jar
+2026-04-06 16:45:08,904 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-test:4.0.5
+2026-04-06 16:45:08,964 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/4.0.5/spring-boot-test-4.0.5-sources.jar
+2026-04-06 16:45:09,076 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/4.0.5/spring-boot-test-4.0.5-sources.jar
+2026-04-06 16:45:09,079 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-test:4.0.5
+2026-04-06 16:45:09,092 [Worker-5: Import Getting Started Content] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.projectlombok:lombok:jar: is missing, no dependency information available
+2026-04-06 16:45:09,104 [Worker-5: Import Getting Started Content] ERROR o.e.m.a.i.u.PluginDependencyResolver - Unable to collect dependencies for plugin
+org.eclipse.aether.resolution.DependencyResolutionException: org.projectlombok:lombok:jar: was not found in https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveDependencies(DefaultRepositorySystem.java:357)
+	at org.eclipse.m2e.apt.internal.utils.PluginDependencyResolver.getResolvedPluginDependencies(PluginDependencyResolver.java:106)
+	at org.eclipse.m2e.apt.internal.compiler.MavenCompilerJdtAptDelegate.getAnnotationProcessorConfiguration(MavenCompilerJdtAptDelegate.java:172)
+	at org.eclipse.m2e.apt.internal.AbstractAptConfiguratorDelegate.configureClasspath(AbstractAptConfiguratorDelegate.java:249)
+	at org.eclipse.m2e.apt.internal.AbstractAptProjectConfigurator.lambda$1(AbstractAptProjectConfigurator.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:350)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:262)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:205)
+	at org.eclipse.m2e.apt.internal.AbstractAptProjectConfigurator.configureRawClasspath(AbstractAptProjectConfigurator.java:150)
+	at org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator.invokeJavaProjectConfigurators(AbstractJavaProjectConfigurator.java:227)
+	at org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator.configure(AbstractJavaProjectConfigurator.java:186)
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:125)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$6(ProjectConfigurationManager.java:475)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:350)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:262)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:469)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.configureNewMavenProjects(ProjectConfigurationManager.java:278)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$1(ProjectConfigurationManager.java:165)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:350)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:262)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:205)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:138)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:129)
+	at org.springframework.ide.eclipse.boot.wizard.importing.MavenStrategy.createEclipseProjectFromExistingMavenProject(MavenStrategy.java:134)
+	at org.springframework.ide.eclipse.boot.wizard.importing.MavenStrategy$MavenCodeSetImport.run(MavenStrategy.java:85)
+	at org.springframework.ide.eclipse.boot.wizard.NewSpringBootWizardModel.importProject(NewSpringBootWizardModel.java:343)
+	at org.springframework.ide.eclipse.boot.wizard.NewSpringBootWizardModel.performFinish(NewSpringBootWizardModel.java:322)
+	at org.springframework.ide.eclipse.boot.wizard.NewSpringBootWizard$1.runInWorkspace(NewSpringBootWizard.java:229)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.aether.resolution.ArtifactResolutionException: org.projectlombok:lombok:jar: was not found in https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:425)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:229)
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveDependencies(DefaultRepositorySystem.java:340)
+	... 29 common frames omitted
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: org.projectlombok:lombok:jar: was not found in https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.newException(DefaultUpdateCheckManager.java:217)
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.checkArtifact(DefaultUpdateCheckManager.java:189)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.gatherDownloads(DefaultArtifactResolver.java:574)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:484)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:402)
+	... 31 common frames omitted
+2026-04-06 16:45:09,135 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/4.0.5/spring-boot-test-autoconfigure-4.0.5-sources.jar
+2026-04-06 16:45:09,441 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/4.0.5/spring-boot-test-autoconfigure-4.0.5-sources.jar
+2026-04-06 16:45:09,444 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-test-autoconfigure:4.0.5
+2026-04-06 16:45:09,508 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc-test/4.0.5/spring-boot-starter-jdbc-test-4.0.5-sources.jar
+2026-04-06 16:45:09,641 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc-test/4.0.5/spring-boot-starter-jdbc-test-4.0.5-sources.jar
+2026-04-06 16:45:09,644 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-jdbc-test:4.0.5
+2026-04-06 16:45:09,704 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-jdbc-test/4.0.5/spring-boot-jdbc-test-4.0.5-sources.jar
+2026-04-06 16:45:09,927 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-jdbc-test/4.0.5/spring-boot-jdbc-test-4.0.5-sources.jar
+2026-04-06 16:45:09,930 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-jdbc-test:4.0.5
+2026-04-06 16:45:10,084 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-data-jpa-test/4.0.5/spring-boot-data-jpa-test-4.0.5-sources.jar
+2026-04-06 16:45:10,343 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-data-jpa-test/4.0.5/spring-boot-data-jpa-test-4.0.5-sources.jar
+2026-04-06 16:45:10,346 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-data-jpa-test:4.0.5
+2026-04-06 16:45:10,502 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-jpa-test/4.0.5/spring-boot-jpa-test-4.0.5-sources.jar
+2026-04-06 16:45:10,731 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-jpa-test/4.0.5/spring-boot-jpa-test-4.0.5-sources.jar
+2026-04-06 16:45:10,734 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-jpa-test:4.0.5
+2026-04-06 16:45:10,800 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webmvc-test/4.0.5/spring-boot-starter-webmvc-test-4.0.5-sources.jar
+2026-04-06 16:45:10,879 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-webmvc-test/4.0.5/spring-boot-starter-webmvc-test-4.0.5-sources.jar
+2026-04-06 16:45:10,883 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-webmvc-test:4.0.5
+2026-04-06 16:45:10,953 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jackson-test/4.0.5/spring-boot-starter-jackson-test-4.0.5-sources.jar
+2026-04-06 16:45:11,032 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jackson-test/4.0.5/spring-boot-starter-jackson-test-4.0.5-sources.jar
+2026-04-06 16:45:11,037 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-jackson-test:4.0.5
+2026-04-06 16:45:11,112 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-webmvc-test/4.0.5/spring-boot-webmvc-test-4.0.5-sources.jar
+2026-04-06 16:45:11,519 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-04-06 16:45:11,542 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-06 16:45:11,548 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\back-plato\src\test\resources
+2026-04-06 16:45:11,563 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-webmvc-test/4.0.5/spring-boot-webmvc-test-4.0.5-sources.jar
+2026-04-06 16:45:11,566 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-webmvc-test:4.0.5
+2026-04-06 16:45:11,625 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-web-server/4.0.5/spring-boot-web-server-4.0.5-sources.jar
+2026-04-06 16:45:11,766 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-web-server/4.0.5/spring-boot-web-server-4.0.5-sources.jar
+2026-04-06 16:45:11,772 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-web-server:4.0.5
+2026-04-06 16:45:11,837 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-resttestclient/4.0.5/spring-boot-resttestclient-4.0.5-sources.jar
+2026-04-06 16:45:12,110 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-resttestclient/4.0.5/spring-boot-resttestclient-4.0.5-sources.jar
+2026-04-06 16:45:12,114 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-resttestclient:4.0.5
+2026-04-06 16:45:13,180 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-06 16:45:13,180 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-06 16:45:13,183 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\back-plato\src\test\resources
+2026-04-06 16:45:36,527 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-04-06 16:45:36,540 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-06 16:45:36,544 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\back-plato\src\test\resources
+2026-04-06 16:45:42,859 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-04-06 16:45:42,877 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-06 16:45:42,882 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\back-plato\src\test\resources
+2026-04-06 16:46:17,719 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-04-06 16:46:17,738 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-06 16:46:17,741 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\back-plato\src\test\resources
+2026-04-06 16:46:31,804 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-04-06 16:46:31,818 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-06 16:46:31,821 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\back-plato\src\test\resources
+2026-04-06 16:46:43,833 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-04-06 16:46:43,849 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-06 16:46:43,853 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\back-plato\src\test\resources
+2026-04-06 16:46:54,035 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-04-06 16:46:54,053 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-06 16:46:54,060 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\back-plato\src\test\resources
+2026-04-06 16:47:07,207 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-04-06 16:47:07,214 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-06 16:47:07,218 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\back-plato\src\test\resources
+2026-04-06 16:50:34,843 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-06 16:50:34,844 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-06 16:50:34,847 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\back-plato\src\test\resources
+2026-04-06 16:50:55,982 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-06 16:50:55,982 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-06 16:50:55,985 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\back-plato\src\test\resources
+2026-04-06 16:55:29,312 [Worker-4: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:back-plato:0.0.1-SNAPSHOT @ C:\Users\Mati\Desktop\prueba_solemne1\back-plato\pom.xml.
+2026-04-06 16:55:33,817 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 16:55:33,819 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-04-06 16:55:33,823 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 16:55:33,823 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\back-plato\src\test\resources
+2026-04-06 16:55:35,668 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 16:55:35,669 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-04-06 16:55:35,678 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 16:55:35,678 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\back-plato\src\test\resources
+2026-04-06 16:55:42,696 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-04-06 16:55:43,160 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:back-plato:0.0.1-SNAPSHOT @ C:\Users\Mati\Desktop\prueba_solemne1\back-plato\pom.xml.
+2026-04-06 16:55:43,831 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /back-plato/src/main/java
+2026-04-06 16:55:43,832 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /back-plato/src/main/resources
+2026-04-06 16:55:43,832 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /back-plato/src/test/java
+2026-04-06 16:55:44,737 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2026-04-06 16:55:45,600 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 16:55:45,600 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-04-06 16:55:45,625 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 16:55:45,625 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\back-plato\src\test\resources
+2026-04-06 16:56:01,179 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2026-04-06 17:04:16,907 [Worker-16: Launching back-plato] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Mati\Desktop\prueba_solemne1\back-plato
+2026-04-06 17:04:16,966 [Worker-16: Launching back-plato] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B -Dstyle.color=always package
+2026-04-06 17:05:22,285 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-04-06 17:05:22,767 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:back-plato:0.0.1-SNAPSHOT @ C:\Users\Mati\Desktop\prueba_solemne1\back-plato\pom.xml.
+2026-04-06 17:05:23,452 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /back-plato/src/main/java
+2026-04-06 17:05:23,452 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /back-plato/src/main/resources
+2026-04-06 17:05:23,453 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /back-plato/src/test/java
+2026-04-06 17:05:23,916 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2026-04-06 17:05:24,479 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:05:24,480 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-04-06 17:05:24,492 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:05:24,493 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\back-plato\src\test\resources
+2026-04-06 17:09:46,481 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:09:46,483 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-04-06 17:09:46,486 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:09:46,486 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\back-plato\src\test\resources
+2026-04-06 17:09:58,954 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:09:58,954 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-04-06 17:09:58,956 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:09:58,956 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\back-plato\src\test\resources
+2026-04-06 17:14:56,933 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:back-plato:0.0.1-SNAPSHOT @ C:\Users\Mati\Desktop\prueba_solemne1\back-plato\pom.xml.
+2026-04-06 17:14:57,540 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:14:57,541 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-04-06 17:14:57,544 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:14:57,544 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\back-plato\src\test\resources
+2026-04-06 17:16:08,480 [Worker-22: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:back-plato:0.0.1-SNAPSHOT @ C:\Users\Mati\Desktop\prueba_solemne1\back-plato\pom.xml.
+2026-04-06 17:16:08,898 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:16:08,899 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-04-06 17:16:08,901 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:16:08,901 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\back-plato\src\test\resources
+2026-04-06 17:16:16,405 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-04-06 17:16:16,754 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:back-plato:0.0.1-SNAPSHOT @ C:\Users\Mati\Desktop\prueba_solemne1\back-plato\pom.xml.
+2026-04-06 17:16:17,321 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /back-plato/src/main/java
+2026-04-06 17:16:17,321 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /back-plato/src/main/resources
+2026-04-06 17:16:17,322 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /back-plato/src/test/java
+2026-04-06 17:16:17,763 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2026-04-06 17:16:18,353 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:16:18,353 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-04-06 17:16:18,362 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:16:18,362 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\back-plato\src\test\resources
+2026-04-06 17:18:30,402 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:18:30,403 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-04-06 17:18:30,405 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:18:30,405 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\back-plato\src\test\resources
+2026-04-06 17:19:08,579 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:19:08,580 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-04-06 17:19:08,583 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:19:08,583 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\back-plato\src\test\resources
+2026-04-06 17:19:27,438 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:19:27,439 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-04-06 17:19:27,442 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:19:27,442 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\back-plato\src\test\resources
+2026-04-06 17:19:56,031 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:19:56,032 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-04-06 17:19:56,034 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:19:56,035 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\back-plato\src\test\resources
+2026-04-06 17:20:24,191 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:20:24,192 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-04-06 17:20:24,194 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:20:24,195 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\back-plato\src\test\resources
+2026-04-06 17:20:53,102 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:20:53,103 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-04-06 17:20:53,106 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:20:53,106 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\back-plato\src\test\resources
+2026-04-06 17:21:02,241 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:21:02,242 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-04-06 17:21:02,245 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:21:02,246 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\back-plato\src\test\resources
+2026-04-06 17:21:28,489 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:21:28,490 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-04-06 17:21:28,493 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:21:28,493 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\back-plato\src\test\resources
+2026-04-06 17:26:48,983 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:26:48,984 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-04-06 17:26:48,986 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:26:48,986 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\back-plato\src\test\resources
+2026-04-06 17:28:26,521 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:28:26,522 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-04-06 17:28:26,524 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:28:26,524 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\back-plato\src\test\resources
+2026-04-06 17:29:21,982 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:29:21,983 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-04-06 17:29:21,985 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:29:21,986 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\back-plato\src\test\resources
+2026-04-06 17:30:00,166 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:30:00,167 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-04-06 17:30:00,169 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:30:00,169 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\back-plato\src\test\resources
+2026-04-06 17:31:31,729 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:31:31,730 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-04-06 17:31:31,732 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:31:31,732 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\back-plato\src\test\resources
+2026-04-06 17:32:45,765 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:32:45,770 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-04-06 17:32:45,774 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:32:45,774 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\back-plato\src\test\resources
+2026-04-06 17:34:10,620 [Worker-31: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:front-plato:0.0.1-SNAPSHOT @ C:\Users\Mati\Desktop\prueba_solemne1\front-plato\pom.xml.
+2026-04-06 17:34:12,340 [Worker-31: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /front-plato/src/main/java
+2026-04-06 17:34:12,341 [Worker-31: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /front-plato/src/main/resources
+2026-04-06 17:34:12,351 [Worker-31: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /front-plato/src/main/resources
+2026-04-06 17:34:12,362 [Worker-31: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /front-plato/src/test/java
+2026-04-06 17:34:15,821 [Worker-31: Import Getting Started Content] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.projectlombok:lombok:jar: is missing, no dependency information available
+2026-04-06 17:34:15,822 [Worker-31: Import Getting Started Content] ERROR o.e.m.a.i.u.PluginDependencyResolver - Unable to collect dependencies for plugin
+org.eclipse.aether.resolution.DependencyResolutionException: org.projectlombok:lombok:jar: was not found in https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveDependencies(DefaultRepositorySystem.java:357)
+	at org.eclipse.m2e.apt.internal.utils.PluginDependencyResolver.getResolvedPluginDependencies(PluginDependencyResolver.java:106)
+	at org.eclipse.m2e.apt.internal.compiler.MavenCompilerJdtAptDelegate.getAnnotationProcessorConfiguration(MavenCompilerJdtAptDelegate.java:172)
+	at org.eclipse.m2e.apt.internal.AbstractAptConfiguratorDelegate.configureClasspath(AbstractAptConfiguratorDelegate.java:249)
+	at org.eclipse.m2e.apt.internal.AbstractAptProjectConfigurator.lambda$1(AbstractAptProjectConfigurator.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:350)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:262)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:205)
+	at org.eclipse.m2e.apt.internal.AbstractAptProjectConfigurator.configureRawClasspath(AbstractAptProjectConfigurator.java:150)
+	at org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator.invokeJavaProjectConfigurators(AbstractJavaProjectConfigurator.java:227)
+	at org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator.configure(AbstractJavaProjectConfigurator.java:186)
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:125)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$6(ProjectConfigurationManager.java:475)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:350)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:262)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:469)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.configureNewMavenProjects(ProjectConfigurationManager.java:278)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$1(ProjectConfigurationManager.java:165)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:350)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:262)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:205)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:138)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.importProjects(ProjectConfigurationManager.java:129)
+	at org.springframework.ide.eclipse.boot.wizard.importing.MavenStrategy.createEclipseProjectFromExistingMavenProject(MavenStrategy.java:134)
+	at org.springframework.ide.eclipse.boot.wizard.importing.MavenStrategy$MavenCodeSetImport.run(MavenStrategy.java:85)
+	at org.springframework.ide.eclipse.boot.wizard.NewSpringBootWizardModel.importProject(NewSpringBootWizardModel.java:343)
+	at org.springframework.ide.eclipse.boot.wizard.NewSpringBootWizardModel.performFinish(NewSpringBootWizardModel.java:322)
+	at org.springframework.ide.eclipse.boot.wizard.NewSpringBootWizard$1.runInWorkspace(NewSpringBootWizard.java:229)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.aether.resolution.ArtifactResolutionException: org.projectlombok:lombok:jar: was not found in https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:425)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:229)
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveDependencies(DefaultRepositorySystem.java:340)
+	... 29 common frames omitted
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: org.projectlombok:lombok:jar: was not found in https://repo.maven.apache.org/maven2 during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of central has elapsed or updates are forced
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.newException(DefaultUpdateCheckManager.java:217)
+	at org.eclipse.aether.internal.impl.DefaultUpdateCheckManager.checkArtifact(DefaultUpdateCheckManager.java:189)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.gatherDownloads(DefaultArtifactResolver.java:574)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:484)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:402)
+	... 31 common frames omitted
+2026-04-06 17:34:16,237 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-04-06 17:34:16,261 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-06 17:34:16,265 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\front-plato\src\test\resources
+2026-04-06 17:39:41,739 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-04-06 17:39:41,761 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-06 17:39:41,764 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\front-plato\src\test\resources
+2026-04-06 17:39:56,492 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-04-06 17:39:56,501 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-06 17:39:56,504 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\front-plato\src\test\resources
+2026-04-06 17:40:14,412 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-04-06 17:40:14,418 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-06 17:40:14,421 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\front-plato\src\test\resources
+2026-04-06 17:40:28,941 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-04-06 17:40:28,947 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-06 17:40:28,950 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\front-plato\src\test\resources
+2026-04-06 17:40:45,073 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-04-06 17:40:45,080 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-06 17:40:45,082 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\front-plato\src\test\resources
+2026-04-06 17:41:04,993 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-04-06 17:41:05,000 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-06 17:41:05,003 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\front-plato\src\test\resources
+2026-04-06 17:41:22,450 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-04-06 17:41:22,455 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-06 17:41:22,460 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\front-plato\src\test\resources
+2026-04-06 17:41:33,673 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-04-06 17:41:33,677 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-06 17:41:33,679 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\front-plato\src\test\resources
+2026-04-06 17:41:53,735 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-04-06 17:41:53,741 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-06 17:41:53,744 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\front-plato\src\test\resources
+2026-04-06 17:42:16,515 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-04-06 17:42:16,520 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-06 17:42:16,522 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\front-plato\src\test\resources
+2026-04-06 17:45:36,301 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-04-06 17:45:36,307 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-06 17:45:36,309 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\front-plato\src\test\resources
+2026-04-06 17:46:14,754 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-04-06 17:46:14,759 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-06 17:46:14,761 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\front-plato\src\test\resources
+2026-04-06 17:47:06,948 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-04-06 17:47:06,954 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-06 17:47:06,957 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\front-plato\src\test\resources
+2026-04-06 17:53:10,601 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-04-06 17:53:10,607 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-06 17:53:10,612 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\front-plato\src\test\resources
+2026-04-06 17:53:53,206 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-04-06 17:53:53,213 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-06 17:53:53,216 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\front-plato\src\test\resources
+2026-04-06 17:54:32,554 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-06 17:54:32,554 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-06 17:54:32,556 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\front-plato\src\test\resources
+2026-04-06 17:55:06,246 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-06 17:55:06,247 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-06 17:55:06,249 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\front-plato\src\test\resources
+2026-04-06 17:56:02,708 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-04-06 17:56:02,717 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-06 17:56:02,720 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\front-plato\src\test\resources
+2026-04-06 17:56:46,743 [Worker-27: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:demo02:0.0.1-SNAPSHOT @ C:\Users\Mati\Desktop\prueba_solemne1\front-plato\pom.xml.
+2026-04-06 17:56:47,107 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:56:47,107 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2026-04-06 17:56:47,110 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:56:47,110 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\front-plato\src\test\resources
+2026-04-06 17:56:48,836 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:56:48,837 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-04-06 17:56:48,841 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:56:48,842 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\front-plato\src\test\resources
+2026-04-06 17:56:56,218 [Worker-39: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-04-06 17:56:56,324 [Worker-39: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:demo02:0.0.1-SNAPSHOT @ C:\Users\Mati\Desktop\prueba_solemne1\front-plato\pom.xml.
+2026-04-06 17:56:56,534 [Worker-39: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /front-plato/src/main/java
+2026-04-06 17:56:56,534 [Worker-39: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /front-plato/src/main/resources
+2026-04-06 17:56:56,534 [Worker-39: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /front-plato/src/test/java
+2026-04-06 17:56:57,021 [Worker-39: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2026-04-06 17:56:57,704 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:56:57,705 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-04-06 17:56:57,708 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 17:56:57,708 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\front-plato\src\test\resources
+2026-04-06 18:10:30,996 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 18:10:30,997 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2026-04-06 18:10:30,999 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2026-04-06 18:10:30,999 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Mati\Desktop\prueba_solemne1\front-plato\src\test\resources
