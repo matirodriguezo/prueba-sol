@@ -8,13 +8,13 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/x
 
 <groupId>com.example</groupId>
 
-<artifactId>back-plato</artifactId>
+<artifactId>back-bus</artifactId>
 
 <version>0.0.1-SNAPSHOT</version>
 
-<name>back-plato</name>
+<name>back-bus</name>
 
-<description>back-plato spring boot</description>
+<description>back-bus spring boot</description>
 
 
 
@@ -30,7 +30,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/x
 
 <lombok.version>1.18.24</lombok.version>
 
-<start-class>com.example.demo.BackPlatoApplication</start-class>
+<start-class>com.example.demo.BackBusApplication</start-class>
 </properties>
 
 
@@ -40,6 +40,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/x
 <dependencyManagement>
 
 <dependencies>
+
 
 <dependency>
 
@@ -128,7 +129,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/x
 <version>3.5.3</version>
 
 <configuration>
-<mainClass>com.example.demo.BackPlatoApplication</mainClass>
+<mainClass>com.example.demo.BackBusApplication</mainClass>
 <layout>JAR</layout>
 <excludes>
 <exclude>

@@ -2,30 +2,42 @@
 <html lang="es" xmlns:th="http://www.thymeleaf.org">
 <head>
   <meta charset="UTF-8">
-  <title>Mantenedor Plato API REST</title>
+  <title>Mantenedor Buses API REST</title>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 </head>
 <body>
 <div class="container mt-4">
-    <h1>CRUD de Platos</h1>
+    <h1>Mantenedor Bus</h1>
     
-    <a class="btn btn-success mb-3" th:href="@{/crud/plato/formulario}">Crear Nuevo Plato</a>
+    <a class="btn btn-success mb-3" th:href="@{/crud/bus/formulario}">Nuevo Bus</a>
 
     <table id="example1" class="table table-bordered table-striped">
      <thead>
       <tr>
        <th>ID</th>
-       <th>NOMBRE</th>
-       <th>FUNCIONES</th>
+       <th>PATENTE</th>
+       <th>MARCA</th>
+       <th>KM</th>
+       <th>ANIO</th>
+       <th>COMBUSTIBLE</th>
+       <th>REVISION</th>
+       <th>ACCIONES</th>
       </tr>
      </thead>
      <tbody>
-      <tr th:each="plato : ${platos}">
-       <td th:text="${plato.id}"></td>
-       <td th:text="${plato.nombre}"></td>
+      <tr th:each="bus : ${buses}">
+       <td th:text="${bus.id}"></td>
+       <td th:text="${bus.patente}"></td>
+       <td th:text="${bus.marca}"></td>
+       <td th:text="${bus.km}"></td>
+       <td th:text="${bus.anio}"></td>
+       <td th:text="${bus.combustible}"></td>
+       <td th:text="${bus.revisionAlDia}"></td>
+       
+       
        <td>
-        <a class="btn btn-warning" th:href="@{/crud/plato/formulario/{id}(id=${plato.id})}">Editar</a>
-        <a class="btn btn-danger" th:href="@{/crud/plato/delete/{id}(id=${plato.id})}">Borrar</a>
+        <a class="btn btn-warning" th:href="@{/crud/bus/formulario/{id}(id=${bus.id})}">Editar</a>
+        <a class="btn btn-danger" th:href="@{/crud/bus/delete/{id}(id=${bus.id})}">Borrar</a>
        </td>
       </tr>
      </tbody>

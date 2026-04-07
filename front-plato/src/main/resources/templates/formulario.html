@@ -2,23 +2,43 @@
 <html lang="es" xmlns:th="http://www.thymeleaf.org">
 <head>
     <meta charset="UTF-8">
-    <title>Formulario Platos</title>
+    <title>Formulario Buses</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 </head>
 <body>
 <div class="container mt-4">
-    <h2 th:text="${plato.id != null} ? 'Editar Plato' : 'Crear Plato'"></h2>
+    <h2 th:text="${bus.id != null} ? 'Editar Bus' : 'Nuevo Bus'"></h2>
     
-    <form th:action="@{/crud/plato/save}" th:object="${plato}" method="post">
+    <form th:action="@{/crud/bus/save}" th:object="${bus}" method="post">
         <input type="hidden" th:field="*{id}" />
         
         <div class="form-group">
-            <label>Nombre:</label>
-            <input type="text" class="form-control" th:field="*{nombre}" required />
+            <label>Patente:</label>
+            <input type="text" class="form-control" th:field="*{patente}" placeholder="Ej: AA-BB-CC" required />
+        </div>
+        <div class="form-group">
+            <label>Marca:</label>
+            <input type="text" class="form-control" th:field="*{marca}" placeholder="Ej: Suzuki" required />
+        </div>
+        <div class="form-group">
+            <label>KM:</label>
+            <input type="text" class="form-control" th:field="*{km}" placeholder="Ej: 123455.6" required />
+        </div>
+        <div class="form-group">
+            <label>ANIO:</label>
+            <input type="text" class="form-control" th:field="*{anio}" placeholder="Ej: 2018" required />
+        </div>
+        <div class="form-group">
+            <label>Combustible</label>
+            <input type="text" class="form-control" th:field="*{combustible}" placeholder="Ej: B o D" required />
+        </div>
+        <div class="form-group">
+            <label>Revision</label>
+            <input type="text" class="form-control" th:field="*{revisionAlDia}" required />
         </div>
         
         <button type="submit" class="btn btn-primary">Guardar</button>
-        <a class="btn btn-secondary" th:href="@{/crud/plato/}">Cancelar</a>
+        <a class="btn btn-secondary" th:href="@{/crud/bus/}">Cancelar</a>
     </form>
 </div>
 </body>

@@ -7,31 +7,31 @@ services:
     environment:
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: "1234"
-      POSTGRES_DB: demo01
+      POSTGRES_DB: bus
     volumes:
       - pg-data:/var/lib/postgresql/data
 
   back-plato: 
-    image: matirodriguezo/back-plato:latest
+    image: matirodriguezo/back-bus:latest
     build:
-      context: ./back-plato
+      context: ./back-bus
     environment:
-      - SPRING_DATASOURCE_URL=jdbc:postgresql://postgres:5432/demo01
+      - SPRING_DATASOURCE_URL=jdbc:postgresql://postgres:5432/bus
       - SPRING_DATASOURCE_USERNAME=postgres
       - SPRING_DATASOURCE_PASSWORD=1234
     ports:
-      - "8884:8884"
+      - "6789:6789"
     depends_on:
       - postgres
 
   front-plato: 
-    image: matirodriguezo/front-plato:latest
+    image: matirodriguezo/front-bus:latest
     build:
-      context: ./front-plato 
+      context: ./front-bus 
     ports:
-      - "9994:9994"
+      - "9876:9876"
     depends_on:
-      - back-plato 
+      - back-bus 
 
 volumes:
   pg-data:
