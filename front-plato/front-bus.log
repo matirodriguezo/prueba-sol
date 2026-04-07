@@ -589,3 +589,5 @@ org.springframework.beans.NotReadablePropertyException: Invalid property 'revisi
 2026-04-07 10:26:07.624  INFO 7040 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9876 (http) with context path ''
 2026-04-07 10:26:07.631  INFO 7040 --- [main] com.example.demo.FrontBusApplication     : Started FrontBusApplication in 0.938 seconds (JVM running for 1.304)
 2026-04-07 10:26:12.564  INFO 7040 --- [http-nio-9876-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-04-07 10:26:12.570  INFO 7040 --- [http-nio-9876-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-04-07 10:26:12.571  INFO 7040 --- [http-nio-9876-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
